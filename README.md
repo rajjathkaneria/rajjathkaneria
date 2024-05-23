@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="50"/></a> &emsp;
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" alt="github" height="50"/></a> &emsp;
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="50"/></a> &emsp;
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket" height="20"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png" alt="Bitbucket" height="35"/></a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"/> &emsp;
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"/> &emsp;
@@ -55,8 +55,15 @@ You can click the Preview link to take a look at your changes.
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="50"/></a> &emsp;
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="50"/></a> &emsp;
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="60"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/1200px-Jira_%28Software%29_logo.svg.png" alt="Jira" height="22"/></a> &emsp;
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="55"/></a> &emsp;
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" height="70"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://play-lh.googleusercontent.com/W3VsSBWwRkgu3VU4vz0AHItfbhGKlYbgqLXJAihtr-QYgMO1A3g9_eyrAbqOxANa7qc=w240-h480-rw" alt="M365 Admin" height="60"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" alt="Teams" height="45"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-sharepoint7924.jpg" alt="SharePoint" height="55"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2022/02/vmware-logo.png" alt="VMware" height="60"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Citrix_Systems_logo.svg/2560px-Citrix_Systems_logo.svg.png" alt="Citrix" height="25"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://img2.storyblok.com/fit-in/300x200/filters:fill(FFFFFF)/f/120169/500x350/d255e29cbf/microsoft-intune-logo.png" alt="Intune" height="80"/></a> &emsp;
+<a href="#" target="_blank"> <img src="https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/images/optimized/rev-fc9acef/pei.com/wp-content/uploads/2017/11/Microsoft-System-Center-Configuration-Manager-logo-e1529591849473.png" alt="SCCM" height="80"/></a> &emsp;
 </p>
 &nbsp
 &nbsp
